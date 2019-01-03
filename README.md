@@ -1,0 +1,3 @@
+# luaspersegipanjang
+tugas algoritma
+# luaspersegipanjang
